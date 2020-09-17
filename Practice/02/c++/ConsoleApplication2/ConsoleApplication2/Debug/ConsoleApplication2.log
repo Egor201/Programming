@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Admin\Desktop\кфу\Программирование\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\кфу\Программирование\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,23): error C2065: endl: необъявленный идентификатор
+C:\Users\Admin\Desktop\кфу\Программирование\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,36): error C2065: endl: необъявленный идентификатор
+C:\Users\Admin\Desktop\кфу\Программирование\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,49): error C2065: endl: необъявленный идентификатор
