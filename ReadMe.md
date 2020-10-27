@@ -1,28 +1,28 @@
-## Программирование
+п»ї## РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ
 
-Автор: Баклажков Егор
+РђРІС‚РѕСЂ: Р‘Р°РєР»Р°Р¶РєРѕРІ Р•РіРѕСЂ
 
-### Первый семестр
+### РџРµСЂРІС‹Р№ СЃРµРјРµСЃС‚СЂ
 
-| Практические | Лабораторные |
+| РџСЂР°РєС‚РёС‡РµСЃРєРёРµ | Р›Р°Р±РѕСЂР°С‚РѕСЂРЅС‹Рµ |
 | ------------ | ------------ |
-| Практическая 1 - [[C++]](./Practice/01/C++/) [[Python]](./Practice/01/Python/) |
-| Практическая 2 - [[C++]](./Practice/02/C++/) [[Python]](./Practice/02/Python/) |
-| Практическая 3 - [[C++]](./Practice/03/C++/) [[Python]](./Practice/03/Python/) |
-| Практическая 4 - [[C++]](./Practice/04/C++/) [[Python]](./Practice/04/Python/) |
-| Практическая 5 - [[C++]](./Practice/05/C++/) [[Python]](./Practice/05/Python/) |
-| Практическая 6 - [[C++]](./Practice/06/C++/) [[Python]](./Practice/06/Python/) |
-| Практическая 7 - [[C++]](./Practice/07/C++/) [[Python]](./Practice/07/Python/) |
-| Практическая 8 - [[C++]](./Practice/08/C++/) [[Python]](./Practice/08/Python/) |
-| Практическая 9 - [[C++]](./Practice/09/C++/) [[Python]](./Practice/09/Python/) |
-| Практическая 10 - [[C++]](./Practice/10/C++/) [[Python]](./Practice/10/Python/) |
-| Практическая 11 - [[C++]](./Practice/11/C++/) [[Python]](./Practice/11/Python/) |
-| Практическая 12 - [[C++]](./Practice/12/C++/) [[Python]](./Practice/12/Python/) |
-| Практическая 13 - [[C++]](./Practice/13/C++/) [[Python]](./Practice/13/Python/) |
-| Практическая 14 - [[C++]](./Practice/14/C++/) [[Python]](./Practice/14/Python/) |
-| Практическая 15 - [[C++]](./Practice/15/C++/) [[Python]](./Practice/15/Python/) |
-| Практическая 16 - [[C++]](./Practice/16/C++/) |
-| Практическая 17 - [[C++]](./Practice/17/C++/) |
-| Практическая 18 - [[C++]](./Practice/18/C++/) |
-| Практическая 19 - [[C++]](./Practice/19/C++/) |
-| Практическая 20 - [[C++]](./Practice/20/C++/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 1 - [[C++]](./Practice/01/C++/) [[Python]](./Practice/01/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 2 - [[C++]](./Practice/02/C++/) [[Python]](./Practice/02/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 3 - [[C++]](./Practice/03/C++/) [[Python]](./Practice/03/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 4 - [[C++]](./Practice/04/C++/) [[Python]](./Practice/04/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 5 - [[C++]](./Practice/05/C++/) [[Python]](./Practice/05/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 6 - [[C++]](./Practice/06/C++/) [[Python]](./Practice/06/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 7 - [[C++]](./Practice/07/C++/) [[Python]](./Practice/07/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 8 - [[C++]](./Practice/08/C++/) [[Python]](./Practice/08/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 9 - [[C++]](./Practice/09/C++/) [[Python]](./Practice/09/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 10 - [[C++]](./Practice/10/C++/) [[Python]](./Practice/10/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 11 - [[C++]](./Practice/11/C++/) [[Python]](./Practice/11/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 12 - [[C++]](./Practice/12/C++/) [[Python]](./Practice/12/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 13 - [[C++]](./Practice/13/C++/) [[Python]](./Practice/13/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 14 - [[C++]](./Practice/14/C++/) [[Python]](./Practice/14/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 15 - [[C++]](./Practice/15/C++/) [[Python]](./Practice/15/Python/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 16 - [[C++]](./Practice/16/C++/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 17 - [[C++]](./Practice/17/C++/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 18 - [[C++]](./Practice/18/C++/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 19 - [[C++]](./Practice/19/C++/) |
+| РџСЂР°РєС‚РёС‡РµСЃРєР°СЏ 20 - [[C++]](./Practice/20/C++/) |
