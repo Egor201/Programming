@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Programming\Practice\20\c++\Истина в вине\Истина в вине\Source.cpp(28,10): warning C4244: =: преобразование "const _Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=const double
+          ]
+C:\Users\Admin\Desktop\Programming\Practice\20\c++\Истина в вине\Истина в вине\Source.cpp(34,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Истина в вине.vcxproj -> C:\Users\Admin\Desktop\Programming\Practice\20\c++\Истина в вине\Debug\Истина в вине.exe

@@ -8,7 +8,9 @@ int main()
 {
     int a, b, c;
     std::cin >> a >> b;
-    // c = a;  a = b;  b = c; //с помощью третьей переменной
+    c = a;  a = b;  b = c; //с помощью третьей переменной
+    std::cout << a << endl << b;
+    c = a;  a = b;  b = c;
     a = a + b; b = a - b; a = a - b; // с помощью арифметических действий
     std::cout << a << endl << b;
 }
