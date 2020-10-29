@@ -16,6 +16,5 @@ int main() {
 	for (int i = 0; i < s.size(); i++) {
 		y = y * qwe[s[i]];
 	}
-	cout << y / pow(c.size(), 4);
-
+	cout << y / pow(c.size(), s.size());
 }

@@ -1,13 +1,24 @@
 #include<iostream>
 
 int main() {
-	int a, b, c;
+	double a, b, c;
+	int q = 0;
 	std::cin >> a >> b;
 	c = a;
-	b = b - 1;
-	while (b != 0) {
-		a = a * c;
-		b = b - 1;
+	if (b == 0) {
+		std::cout << 1;
 	}
-	std::cout << a;
+	else {
+		if (b < 0) {
+			q = 1;
+		}
+		b = abs(b);
+		b = b - 1;
+		while (b != 0) {
+			a = a * c;
+			b = b - 1;
+		}
+		if (q == 1)	std::cout << 1 / a;
+		else std::cout << a;
+	}
 }
