@@ -6,9 +6,9 @@
 
 | Практические | Лабораторные |
 | ------------ | ------------ |
-| Практическая 1 - [[C++]](./Practice/01/c++/) [[Python]](./Practice/01/python/) |
-| Практическая 2 - [[C++]](./Practice/02/c++/) [[Python]](./Practice/02/python/) |
-| Практическая 3 - [[C++]](./Practice/03/c++/) [[Python]](./Practice/03/python/) |
+| Практическая 1 - [[C++]](./Practice/01/c++/) [[Python]](./Practice/01/python/) | [Лабораторная 1](./Lab/lab1/) |
+| Практическая 2 - [[C++]](./Practice/02/c++/) [[Python]](./Practice/02/python/) | [Лабораторная 2](./Lab/lab2/) |
+| Практическая 3 - [[C++]](./Practice/03/c++/) [[Python]](./Practice/03/python/) | [Лабораторная 3](./Lab/lab3/) |
 | Практическая 4 - [[C++]](./Practice/04/c++/) [[Python]](./Practice/04/python/) |
 | Практическая 5 - [[C++]](./Practice/05/c++/) [[Python]](./Practice/05/python/) |
 | Практическая 6 - [[C++]](./Practice/06/c++/) [[Python]](./Practice/06/python/) |
@@ -36,3 +36,5 @@
 | Практическая 28 - [[C++]](./Practice/28/c++/) [[Python]](./Practice/28/python/) |
 | Практическая 29 - [[C++]](./Practice/29/c++/) |
 | Практическая 30 - [[C++]](./Practice/30/c++/) |
+| Практическая 31 - [[C++]](./Practice/31/c++/) |
+| Практическая 32 - [[C++]](./Practice/32/c++/) |
