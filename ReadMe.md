@@ -48,3 +48,6 @@
 | Практическая 36 - [[C++]](./Practice/36/c++/) [[Python]](./Practice/36/python/)| ------------ |
 | Практическая 37 - [[C++]](./Practice/37/c++/) [[Python]](./Practice/37/python/)| ------------ |
 | Практическая 38 - [[C++]](./Practice/38/c++/) [[Python]](./Practice/38/python/)| ------------ |
+
+### Курсовая работа
+| [[coursework]](./coursework) |

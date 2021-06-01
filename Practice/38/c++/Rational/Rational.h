@@ -21,16 +21,13 @@ public:
 
     }
     bool operator== (Rational Q){
-        if (/*(a == Q.a && b == Q.b) ||*/ (a == 0 && Q.a == 0))
-            return true;
-        if (b == 0 && Q.b == 0)
+        if ((b == 0 && Q.b == 0 && a > 0 && Q.a > 0) || (b == 0 && Q.b == 0 && a < 0 && Q.a < 0))
             return true;
         if (b == 0 || Q.b == 0)
             return false;
         if (isNaN() || Q.isNaN())
             return false;
-        int help = b * Q.b;
-        return ((a*help)/b) == ((Q.a *help)/Q.b);
+        return ((a*Q.b) == (Q.a * b));
 
 
 //       if (this->b == Q.b && this->a == Q.a)
@@ -61,6 +58,23 @@ public:
 
 
 //        return tmp_lhs == tmp_rhs;
+
+
+//        if (this->b == 0 && Q.a == 0)
+//                {
+//                    return 0;
+//                }
+//                else
+//                {
+//                    if ((this->a / this->b) == (Q.a / Q.b))
+//                    {
+//                        return 1;
+//                    }
+//                    else
+//                    {
+//                        return 0;
+//                    }
+//                }
 
     }
     Rational operator+ (Rational Q){
