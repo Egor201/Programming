@@ -51,3 +51,4 @@
 
 ### Курсовая работа
 | [client](./coursework) | [server](./coursework/server)|
+| ------------ | ------------ |
