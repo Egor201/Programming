@@ -50,4 +50,4 @@
 | Практическая 38 - [[C++]](./Practice/38/c++/) [[Python]](./Practice/38/python/)| ------------ |
 
 ### Курсовая работа
-| [[coursework]](./coursework) |
+| [client](./coursework) | [server](./coursework/server)|
